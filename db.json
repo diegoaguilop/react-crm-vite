@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Diego",
+      "telefono": 102013313,
+      "email": "diego@gmail.com",
+      "empresa": "DiegoAguiLop SA"
+    },
+    {
+      "id": 3,
+      "nombre": "Manolo",
+      "telefono": 31983913,
+      "email": "manolo@gmail.com",
+      "empresa": "DiegoAguiLop SA"
+    },
+    {
+      "id": 4,
+      "nombre": "Lucia",
+      "telefono": 319381983,
+      "email": "lucia@gmail.com",
+      "empresa": "DiegoAguiLop SA"
+    },
+    {
+      "id": 5,
+      "nombre": "David",
+      "telefono": 1398198938,
+      "email": "david@gmail.com",
+      "empresa": "DiegoAguiLop SA"
+    },
+    {
+      "nombre": "Diego Aguilar",
+      "empresa": "Diegors",
+      "email": "correo@correo.com",
+      "telefono": "5354",
+      "notas": "SISISISISI fdfd",
+      "id": 6
+    }
+  ]
+}
